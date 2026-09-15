@@ -1,4 +1,4 @@
-# Step-by-step-guide-to-implementing-context-menus-in-.net-maui-listview
+# Step by step guide to implement context menus in .NET MAUI ListView (SfListView)
 
 This example demonstrates a step‑by‑step guide to implementing context menus in a .NET MAUI ListView.
 
